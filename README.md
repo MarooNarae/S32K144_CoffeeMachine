@@ -14,3 +14,6 @@ S32K144를 이용한 커피머신 프로젝트
 - 7-Segment로 남은 시간 표시.
 
 
+https://blog.naver.com/in_betweener429/223064023266
+
+블로그에 상세설명 요약
